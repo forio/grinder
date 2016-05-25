@@ -27,6 +27,12 @@
 
     <dependency>
       <groupId>${project.groupId}</groupId>
+      <artifactId>grinder-core</artifactId>
+      <version>3.12-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
+      <groupId>${project.groupId}</groupId>
       <artifactId>grinder-http</artifactId>
       <version>3.12-SNAPSHOT</version>
     </dependency>

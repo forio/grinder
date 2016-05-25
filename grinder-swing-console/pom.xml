@@ -29,6 +29,7 @@
       <scope>test</scope>
     </dependency>
 
+<!--
    <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>grinder-core</artifactId>
@@ -36,6 +37,7 @@
       <version>3.12-SNAPSHOT</version>
       <scope>test</scope>
     </dependency>
+-->
 
     <dependency>
       <groupId>net.sf.jedit-syntax</groupId>
